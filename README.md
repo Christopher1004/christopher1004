@@ -4,10 +4,26 @@
 
 ## Principais habilidades
 
-- Linguagens: JavaScript, Python, C#.
-- Front-end: React, HTML, CSS.
-- Back-end: Node.js, Express.
-- Banco de dados: MySQL, MongoDB, Firebase.
+
+<div style="display:flex; align-items:flex-start; justify-content:space-between; gap: 1rem;">
+
+<div style="text-align:left; font-size:16px; line-height:1.4; padding-right:1rem;">
+<ul style="margin:0; padding-left:0; margin-left:0; list-style-position:inside; line-height:1.4;">
+    <li><strong>Linguagens:</strong> JavaScript, Python, C#</li>
+    <li><strong>Front-end:</strong> React, HTML, CSS</li>
+    <li><strong>Back-end:</strong> Node.js, Express</li>
+    <li><strong>Banco de dados:</strong> MySQL, MongoDB, Firebase</li>
+</ul>
+
+</div>
+
+<div style="flex:0 0 auto;">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher1004&layout=compact&theme=dark)
+
+</div>
+
+</div>
 
 ---
 
